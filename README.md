@@ -1,5 +1,5 @@
 ## Olá! Eu sou Mateus
-- 🌱 Estudando JavaScript
+- 🌱 Estudando React
 
 <div>
   <a href="https://github.com/MateusCamargoS-1">
