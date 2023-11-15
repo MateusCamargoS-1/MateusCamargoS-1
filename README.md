@@ -22,13 +22,6 @@
 - 🤝 Estou aberto a colaborações e aprendizado contínuo.
 - 📈 Verifique meus repositórios para projetos em que estou trabalhando.
 
-## Linguagens e Ferramentas
-<div style="display: inline_block"><br>
- <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
 
 ## Estatísticas do GitHub e Linguagens Mais Utilizadas
 <div>
@@ -37,4 +30,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCamargoS-1&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
+## Linguagens e Ferramentas
+<div style="display: inline_block"><br>
+ <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
 
