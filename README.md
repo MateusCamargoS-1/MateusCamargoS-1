@@ -1,6 +1,5 @@
 ## Olá! Eu sou Mateus
-- Sobre Mim
-Olá! Eu sou Mateus, e estou participando da 18ª edição do programa Starter Fullstack. Sou um entusiasta de desenvolvimento web, focado em construir uma carreira sólida como desenvolvedor fullstack.
+Estou participando da 18ª edição do programa Starter Fullstack. Sou um entusiasta de desenvolvimento web, focado em construir uma carreira sólida como desenvolvedor fullstack.
 
 <div>
   <a href="https://github.com/MateusCamargoS-1">
