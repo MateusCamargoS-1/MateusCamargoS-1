@@ -1,6 +1,6 @@
 ## Sobre Mim
 - 👩‍💻 Participando da 18ª edição do Programa Starter Fullstack da growdev.
-- 🎓 Estudei Front End na Udemy, YouTube e fiz um curso com a Alura.
+- 🎓 Estudei Front End na Udemy, YouTube e fiz alguns cursos com a Alura.
 
 ## Tecnologias
 - 💻 Base sólida em HTML e CSS.
