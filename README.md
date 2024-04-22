@@ -9,11 +9,7 @@
 ## Objetivos
 - 🌐 Aspirando me tornar um desenvolvedor Fullstack.
 - 🎯 Foco em aprimorar habilidades e expandir conhecimentos.
-
-## Hobbies
-- 🎵 Toco instrumentos musicais como parte do meu tempo de lazer.
-- 💪 Pratico calistenia para manter um equilíbrio saudável na vida.
-
+  
 ## Contato
 - 📧 [Email](mailto:mateuscamargodasilva2@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mateus-camargo-da-silva-2b8610215/)
