@@ -1,22 +1,23 @@
 ## Sobre Mim
-- 👩‍💻 Participando da 18ª edição do Programa Starter Fullstack da growdev.
-- 🎓 Estudei Front End na Udemy, YouTube e fiz alguns cursos com a Alura.
+- 👨‍💻 Sou um entusiasta da tecnologia, atualmente participando do Programa Starter Fullstack da Growdev (18ª edição).
+- 📚 Autodidata, complementei minha formação com cursos de Front End na Udemy, YouTube e Alura.
 
-## Tecnologias
-- 💻 Base sólida em HTML e CSS.
-- 🚀 Conhecimento básico em JavaScript, minha linguagem favorita.
+## Habilidades Técnicas
+- 🌐 HTML e CSS: Domínio completo na criação de layouts responsivos e estilização.
+- 📊 JavaScript: Conhecimento fundamental e contínuo aprimoramento nessa linguagem que adoro.
 
-## Objetivos
-- 🌐 Aspirando me tornar um desenvolvedor Fullstack.
-- 🎯 Foco em aprimorar habilidades e expandir conhecimentos.
-  
-## Contato
-- 📧 [Email](mailto:mateuscamargodasilva2@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mateus-camargo-da-silva-2b8610215/)
+## Metas Profissionais
+- 🚀 Almejo me tornar um desenvolvedor Fullstack, combinando conhecimentos de Front End e Back End.
+- 📈 Meu foco é crescer constantemente, adquirindo novas habilidades e aprofundando meu entendimento das tecnologias web.
 
-## Contribuições
-- 🤝 Estou aberto a colaborações e aprendizado contínuo.
-- 📈 Verifique meus repositórios para projetos em que estou trabalhando.
+## Como Me Encontrar
+- 📬 [Email](mailto:mateuscamargodasilva2@gmail.com): mateuscamargodasilva2@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/mateus-camargo-da-silva-2b8610215/): Perfil profissional no LinkedIn
+
+## Participação e Projetos
+- 🤗 Abertura para colaborações: Estou sempre disposto a colaborar e aprender com novos projetos.
+- 🛠️ Projetos em Desenvolvimento: Confira meus repositórios no GitHub para ver o que estou desenvolvendo e contribuir.
+
 
 
 ## Estatísticas do GitHub e Linguagens Mais Utilizadas
@@ -30,7 +31,10 @@
 <div style="display: inline_block"><br>
  <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
     <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
 
