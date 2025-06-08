@@ -1,13 +1,5 @@
 # Olá, eu sou Mateus! 👋
 
-## Sobre Mim
-- 👨‍💻 Sou um entusiasta da tecnologia, atualmente participando da 18ª edição do Programa Starter Fullstack da Growdev.
-- 📚 Faço graduação em Cibersegurança na Unicesumar e sou autodidata, complementando minha formação com cursos de Front End em plataformas como Udemy, YouTube e Alura.
-
-## Metas Profissionais
-- 🚀 Meu objetivo é me tornar um desenvolvedor Fullstack, integrando conhecimentos de Front End e Back End.
-- 📈 Busco crescimento contínuo, sempre aprendendo novas habilidades e aprofundando meu entendimento sobre tecnologias web.
-
 ## Como Me Encontrar
 - 📬 **Email**: [mateuscamargodasilva2@gmail.com](mailto:mateuscamargodasilva2@gmail.com)
 - 💼 **LinkedIn**: [Meu perfil no LinkedIn](https://www.linkedin.com/in/mateus-camargo-da-silva-2b8610215/)
