@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:101a3a,100:00e5ff&height=180&section=header&text=MATEUS%20CAMARGO&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=FULLSTACK%20ENGINEERING%20%2F%2F%20CYBERSECURITY&descAlignY=62&descSize=13&descColor=8be9fd" width="100%" alt="Mateus Camargo — Fullstack Engineering // Cybersecurity" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:101a3a,100:00e5ff&height=180&section=header&text=MATEUS%20CAMARGO&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=FULLSTACK%20ENGINEERING%20%2F%2F%20PRODUCT%20SYSTEMS&descAlignY=62&descSize=13&descColor=8be9fd" width="100%" alt="Mateus Camargo — Fullstack Engineering // Product Systems" />
 
-### `build secure things. ship useful things.`
+### `turn real problems into working systems.`
 
 <a href="https://github.com/MateusCamargoS-1"><img src="https://img.shields.io/badge/STATUS-ONLINE-00e5ff?style=flat-square&labelColor=050816" alt="Status online" /></a>
 <a href="https://www.linkedin.com/in/mateus-camargo-da-silva-2b8610215/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-8be9fd?style=flat-square&labelColor=050816" alt="LinkedIn" /></a>
@@ -15,10 +15,10 @@
 ```text
 ┌─ identity ───────────────────────────────────────────────────────────────┐
 │  Mateus Camargo                                                          │
-│  fullstack developer · cybersecurity student                             │
+│  fullstack developer · product-minded engineer                           │
 │                                                                          │
 │  I design and build web systems that have to work beyond the demo:       │
-│  clear interfaces, reliable APIs, useful data and security in the loop.  │
+│  clear interfaces, reliable APIs, useful data and software that ships.   │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -26,7 +26,7 @@
 
 I like the part of software where product thinking meets engineering depth: understanding the real problem, choosing the simplest architecture that can carry it, and making the result safe to evolve.
 
-My current path is fullstack development with a growing cybersecurity lens — treating authentication, data boundaries, observability and maintainability as part of the product, not as a final checklist.
+My work lives at the intersection of product and engineering: turning operational needs into interfaces, APIs and systems that people can actually depend on. I care about clean boundaries, useful feedback and software that stays understandable as it grows.
 
 ## / system_map
 
@@ -34,7 +34,7 @@ My current path is fullstack development with a growing cybersecurity lens — t
   <tr>
     <td width="33%" valign="top"><strong>01 · interface</strong><br /><br />Experiences with intention: responsive UI, useful states and details that make complex flows feel simple.</td>
     <td width="33%" valign="top"><strong>02 · application</strong><br /><br />APIs and business logic designed around real workflows, predictable contracts and code that can be maintained.</td>
-    <td width="33%" valign="top"><strong>03 · security</strong><br /><br />A study in progress, applied every day through better boundaries, safer defaults and critical thinking.</td>
+    <td width="33%" valign="top"><strong>03 · delivery</strong><br /><br />From the first flow to production: pragmatic decisions, visible states and systems built to keep moving.</td>
   </tr>
 </table>
 
@@ -49,15 +49,15 @@ frontend:  HTML · CSS · JavaScript · TypeScript · React · Bootstrap
 backend:   Node.js · Express
 data:      PostgreSQL
 workflow:  Git · GitHub · REST APIs
-focus:     secure-by-design · scalable systems · continuous learning
+focus:     product thinking · scalable systems · continuous learning
 ```
 
 ## / now
 
 ```diff
-+ studying cybersecurity through an EAD degree
++ turning real workflows into reliable software
 + building fullstack products from interface to API
-+ sharpening architecture, security and delivery practices
++ sharpening architecture, quality and delivery practices
 ```
 
 ## / telemetry
