@@ -1,72 +1,82 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=Mateus+Camargo+-+Fullstack+Developer;Estudante+de+Ciberseguran%C3%A7a+EAD;Construindo+aplica%C3%A7%C3%B5es+seguras+e+escal%C3%A1veis;Aprendizado+cont%C3%ADnuo+%F0%9F%92%AB+Evolu%C3%A7%C3%A3o+constante" alt="Typing SVG dark tech banner">
-</p>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:101a3a,100:00e5ff&height=180&section=header&text=MATEUS%20CAMARGO&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=FULLSTACK%20ENGINEERING%20%2F%2F%20CYBERSECURITY&descAlignY=62&descSize=13&descColor=8be9fd" width="100%" alt="Mateus Camargo — Fullstack Engineering // Cybersecurity" />
 
-# 👋 Olá, eu sou o Mateus!
+### `build secure things. ship useful things.`
 
-Sou um desenvolvedor fullstack apaixonado por transformar ideias em aplicações reais e eficientes. Atualmente estudo **Cibersegurança** e estou sempre buscando aprender novas tecnologias para construir soluções seguras, performáticas e escaláveis.
+<a href="https://github.com/MateusCamargoS-1"><img src="https://img.shields.io/badge/STATUS-ONLINE-00e5ff?style=flat-square&labelColor=050816" alt="Status online" /></a>
+<a href="https://www.linkedin.com/in/mateus-camargo-da-silva-2b8610215/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-8be9fd?style=flat-square&labelColor=050816" alt="LinkedIn" /></a>
+<a href="mailto:mateuscamargodasilva2@gmail.com"><img src="https://img.shields.io/badge/EMAIL-OPEN-ff79c6?style=flat-square&labelColor=050816" alt="Email" /></a>
 
----
-
-## 📫 Como Me Encontrar
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuscamargodasilva2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-camargo-da-silva-2b8610215/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MateusCamargoS-1)
-
----
-
-## ⚙️ Tecnologias que utilizo
-
-<div style="display: inline_block"><br>
-  <img alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Bootstrap" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Node.js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img alt="Express" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img alt="PostgreSQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
----
+<br />
 
-## 📊 Estatísticas do GitHub
+```text
+┌─ identity ───────────────────────────────────────────────────────────────┐
+│  Mateus Camargo                                                          │
+│  fullstack developer · cybersecurity student                             │
+│                                                                          │
+│  I design and build web systems that have to work beyond the demo:       │
+│  clear interfaces, reliable APIs, useful data and security in the loop.  │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+## / operating_principles
+
+I like the part of software where product thinking meets engineering depth: understanding the real problem, choosing the simplest architecture that can carry it, and making the result safe to evolve.
+
+My current path is fullstack development with a growing cybersecurity lens — treating authentication, data boundaries, observability and maintainability as part of the product, not as a final checklist.
+
+## / system_map
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><strong>01 · interface</strong><br /><br />Experiences with intention: responsive UI, useful states and details that make complex flows feel simple.</td>
+    <td width="33%" valign="top"><strong>02 · application</strong><br /><br />APIs and business logic designed around real workflows, predictable contracts and code that can be maintained.</td>
+    <td width="33%" valign="top"><strong>03 · security</strong><br /><br />A study in progress, applied every day through better boundaries, safer defaults and critical thinking.</td>
+  </tr>
+</table>
+
+## / toolchain
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,postgres,git,github" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, PostgreSQL, Git and GitHub" />
+</p>
+
+```yaml
+frontend:  HTML · CSS · JavaScript · TypeScript · React · Bootstrap
+backend:   Node.js · Express
+data:      PostgreSQL
+workflow:  Git · GitHub · REST APIs
+focus:     secure-by-design · scalable systems · continuous learning
+```
+
+## / now
+
+```diff
++ studying cybersecurity through an EAD degree
++ building fullstack products from interface to API
++ sharpening architecture, security and delivery practices
+```
+
+## / telemetry
 
 <div align="center">
   <a href="https://github.com/MateusCamargoS-1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusCamargoS-1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCamargoS-1&layout=compact&langs_count=10&theme=dark"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=MateusCamargoS-1&show_icons=true&hide_border=true&bg_color=050816&title_color=00e5ff&text_color=c9d1d9&icon_color=ff79c6&include_all_commits=true&count_private=true" alt="GitHub statistics" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCamargoS-1&layout=compact&hide_border=true&bg_color=050816&title_color=00e5ff&text_color=c9d1d9&langs_count=8" alt="Most used languages" />
   </a>
 </div>
 
----
+<br />
 
-## 🚀 Sobre Mim
+<div align="center">
 
-- 🔐 Estudante de Cibersegurança (EAD)
-- 💼 Desenvolvedor Web Fullstack
-- 👨‍💻 Apaixonado por resolver problemas reais com código
-- 🎯 Foco em crescimento contínuo e aprendizado prático
+### `if it matters, make it reliable.`
 
-## 🌐 English Version
+<a href="https://github.com/MateusCamargoS-1?tab=repositories">Explore the repositories →</a>
 
-### 👋 Hi, I'm Mateus!
+</div>
 
-I'm a fullstack developer passionate about turning ideas into real, efficient applications. Currently studying **Cybersecurity**, I'm always eager to learn new technologies to build secure, scalable, and high-performing solutions.
-
-### 📫 Contact Me
-
-- **Email**: mateuscamargodasilva2@gmail.com  
-- **LinkedIn**: [Mateus Camargo](https://www.linkedin.com/in/mateus-camargo-da-silva-2b8610215/)  
-- **GitHub**: [@MateusCamargoS-1](https://github.com/MateusCamargoS-1)
-
-### 🔧 Technologies
-
-HTML · CSS · JavaScript · TypeScript · React · Node.js · Express · PostgreSQL · Bootstrap
-
----
-
-<p align="center">💻 Sempre codando com propósito.</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:101a3a,100:050816&height=90&section=footer" width="100%" alt="" />
