@@ -1,60 +1,45 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#030511"/><stop offset="0.55" stop-color="#07152C"/><stop offset="1" stop-color="#14051F"/>
-    </linearGradient>
-    <linearGradient id="edge" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#00E5FF" stop-opacity="0"/><stop offset="0.2" stop-color="#00E5FF"/><stop offset="0.5" stop-color="#8BE9FD"/><stop offset="0.8" stop-color="#FF79C6"/><stop offset="1" stop-color="#FF79C6" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="text" x1="350" y1="130" x2="790" y2="210" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"/><stop offset="0.58" stop-color="#8BE9FD"/><stop offset="1" stop-color="#FF79C6"/></linearGradient>
-    <filter id="glowCyan"><feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <filter id="glowPink"><feGaussianBlur stdDeviation="10" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#8BE9FD" stroke-opacity=".075"/></pattern>
-    <clipPath id="clip"><rect width="1200" height="360" rx="18"/></clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#050816"/><stop offset=".62" stop-color="#0A1730"/><stop offset="1" stop-color="#160A25"/></linearGradient>
+    <linearGradient id="accent" x1="70" y1="150" x2="700" y2="220" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"/><stop offset=".57" stop-color="#8BE9FD"/><stop offset="1" stop-color="#FF79C6"/></linearGradient>
+    <linearGradient id="stroke" x1="30" y1="0" x2="1170" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#00E5FF" stop-opacity=".8"/><stop offset=".5" stop-color="#00E5FF" stop-opacity=".12"/><stop offset="1" stop-color="#FF79C6" stop-opacity=".8"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#00E5FF" stop-opacity=".24"/><stop offset="1" stop-color="#00E5FF" stop-opacity="0"/></radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#8BE9FD" stroke-opacity=".06"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="320" rx="20"/></clipPath>
   </defs>
 
   <g clip-path="url(#clip)">
-    <rect width="1200" height="360" fill="url(#bg)"/>
-    <rect width="1200" height="360" fill="url(#grid)"/>
-    <ellipse cx="190" cy="180" rx="210" ry="190" fill="#00E5FF" fill-opacity=".08" filter="url(#glowCyan)"/>
-    <ellipse cx="1050" cy="125" rx="230" ry="180" fill="#FF3CAC" fill-opacity=".075" filter="url(#glowPink)"/>
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <ellipse cx="960" cy="160" rx="300" ry="250" fill="url(#halo)" filter="url(#blur)"/>
+    <path d="M0 264C198 222 312 290 502 254C682 220 790 58 1200 104" stroke="#00E5FF" stroke-opacity=".12"/>
+    <path d="M0 278C205 236 330 302 518 267C716 231 822 72 1200 117" stroke="#FF79C6" stroke-opacity=".08"/>
 
-    <g opacity=".65" stroke="#00E5FF" stroke-width="1">
-      <path d="M0 278H1200" stroke-opacity=".13"/><path d="M0 82H1200" stroke-opacity=".08"/>
-      <path d="M88 0V360M1112 0V360" stroke-opacity=".12" stroke-dasharray="3 8"/>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+      <text x="62" y="54" fill="#8BE9FD" font-size="10" letter-spacing="3">MATEUS CAMARGO / 2026</text>
+      <text x="62" y="143" fill="url(#accent)" font-size="48" font-weight="700" letter-spacing="3">FULLSTACK</text>
+      <text x="62" y="191" fill="#FFFFFF" font-size="44" font-weight="700" letter-spacing="2">ENGINEER</text>
+      <text x="66" y="226" fill="#A7B7CC" font-size="12" letter-spacing="2">BUILDING DIGITAL PRODUCTS THAT MOVE WITH PURPOSE.</text>
+      <text x="66" y="270" fill="#00E5FF" font-size="10" letter-spacing="2">REACT  ·  NODE  ·  NEST  ·  FLUTTER  ·  RUST</text>
     </g>
 
-    <g fill="#8BE9FD">
-      <circle cx="74" cy="70" r="2" opacity=".8"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
-      <circle cx="1080" cy="278" r="2" opacity=".8"><animate attributeName="opacity" values="1;.2;1" dur="3.1s" repeatCount="indefinite"/></circle>
-      <circle cx="1016" cy="58" r="1.5" opacity=".7"><animate attributeName="opacity" values=".1;.9;.1" dur="1.8s" repeatCount="indefinite"/></circle>
-      <circle cx="180" cy="300" r="1.5" opacity=".7"><animate attributeName="opacity" values=".9;.1;.9" dur="2.8s" repeatCount="indefinite"/></circle>
+    <g transform="translate(960 160)">
+      <circle r="128" fill="none" stroke="#8BE9FD" stroke-opacity=".08" stroke-dasharray="2 10"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="34s" repeatCount="indefinite"/></circle>
+      <circle r="96" fill="none" stroke="#FF79C6" stroke-opacity=".15" stroke-dasharray="1 8"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="22s" repeatCount="indefinite"/></circle>
+      <circle r="66" fill="none" stroke="url(#stroke)" stroke-opacity=".5" stroke-width="1.5"><animate attributeName="r" values="66;72;66" dur="4s" repeatCount="indefinite"/></circle>
+      <path d="M-145 0H-75M75 0H145M0-145V-75M0 75V145" stroke="#8BE9FD" stroke-opacity=".5"/>
+      <circle r="38" fill="#07152C" stroke="#00E5FF" stroke-opacity=".7" filter="url(#glow)"/>
+      <text x="0" y="15" text-anchor="middle" fill="#FFFFFF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="38" font-weight="700">MC</text>
+      <circle cx="0" cy="-128" r="4" fill="#00E5FF" filter="url(#glow)"><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="8s" repeatCount="indefinite"/></circle>
+      <circle cx="96" cy="0" r="3" fill="#FF79C6" filter="url(#glow)"><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="6s" repeatCount="indefinite"/></circle>
     </g>
 
-    <g transform="translate(600 175)" fill="none" stroke="#00E5FF" stroke-width="1">
-      <circle r="108" stroke-opacity=".11" stroke-dasharray="2 12"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="28s" repeatCount="indefinite"/></circle>
-      <circle r="86" stroke-opacity=".17" stroke-dasharray="1 8"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="19s" repeatCount="indefinite"/></circle>
-      <circle r="62" stroke="#FF79C6" stroke-opacity=".2" stroke-dasharray="3 7"><animate attributeName="r" values="62;70;62" dur="3.8s" repeatCount="indefinite"/></circle>
-      <circle r="7" fill="#00E5FF" fill-opacity=".8" stroke="none" filter="url(#glowCyan)"><animate attributeName="r" values="5;8;5" dur="2s" repeatCount="indefinite"/></circle>
-      <path d="M-140 0H-74M74 0H140M0-140V-74M0 74V140" stroke-opacity=".5"/>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" letter-spacing="2" fill="#6E829C">
+      <text x="62" y="300">SYSTEMS / INTERFACES / DELIVERY</text><text x="1050" y="300">[ ONLINE ]</text>
     </g>
-
-    <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#8BE9FD">
-      <text x="42" y="42" font-size="10" letter-spacing="2" opacity=".8">SYS://MATEUS_CAMARGO</text>
-      <text x="1000" y="42" font-size="10" letter-spacing="2" opacity=".8">BUILD 2026.08</text>
-      <text x="42" y="330" font-size="10" letter-spacing="2" opacity=".7">FULLSTACK_ENGINEERING</text>
-      <text x="1010" y="330" font-size="10" letter-spacing="2" opacity=".7">[ ONLINE ]</text>
-    </g>
-
-    <g text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
-      <text x="600" y="153" font-size="46" font-weight="700" letter-spacing="6" fill="url(#text)">MATEUS</text>
-      <text x="600" y="196" font-size="20" letter-spacing="8" fill="#FFFFFF" fill-opacity=".9">CAMARGO</text>
-      <text x="600" y="235" font-size="11" letter-spacing="3" fill="#8BE9FD" fill-opacity=".9">PRODUCT SYSTEMS / FULLSTACK ENGINEERING</text>
-    </g>
-
-    <rect x="0" y="0" width="1200" height="3" fill="url(#edge)" filter="url(#glowCyan)">
-      <animate attributeName="y" values="0;357;0" dur="7s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="1" y="1" width="1198" height="358" rx="17" stroke="url(#edge)" stroke-opacity=".55"/>
+    <rect x="1" y="1" width="1198" height="318" rx="19" stroke="url(#stroke)" stroke-opacity=".55"/>
+    <rect x="0" y="0" width="1200" height="2" fill="url(#stroke)" opacity=".8"><animate attributeName="y" values="0;318;0" dur="8s" repeatCount="indefinite"/></rect>
   </g>
 </svg>
