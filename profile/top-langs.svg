@@ -1,0 +1,11 @@
+<svg width="320" height="165" viewBox="0 0 320 165" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="165" rx="8" fill="#050816" stroke="#173A5E"/>
+  <path d="M0 8C0 3.6 3.6 0 8 0H312C316.4 0 320 3.6 320 8V10H0V8Z" fill="#FF79C6"/>
+  <text x="20" y="35" fill="#FF79C6" font-family="monospace" font-size="14" font-weight="700">STACK_FOOTPRINT</text>
+  <text x="20" y="55" fill="#6E829C" font-family="monospace" font-size="10">LANGUAGE INDEX · SYNCING</text>
+  <g font-family="monospace" font-size="11">
+    <text x="20" y="82" fill="#8BE9FD">●</text><text x="34" y="82" fill="#FFFFFF">TypeScript</text><text x="20" y="104" fill="#FF79C6">●</text><text x="34" y="104" fill="#FFFFFF">JavaScript</text>
+    <text x="166" y="82" fill="#FFD866">●</text><text x="180" y="82" fill="#FFFFFF">Dart</text><text x="166" y="104" fill="#DEA584">●</text><text x="180" y="104" fill="#FFFFFF">Rust</text>
+  </g>
+  <path d="M20 127H300" stroke="#173A5E"/><text x="20" y="148" fill="#6E829C" font-family="monospace" font-size="10">ACTION // DAILY UPDATE</text>
+</svg>

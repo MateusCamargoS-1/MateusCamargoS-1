@@ -1,0 +1,13 @@
+<svg width="495" height="165" viewBox="0 0 495 165" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="495" height="165" rx="8" fill="#050816" stroke="#173A5E"/>
+  <path d="M0 8C0 3.6 3.6 0 8 0H487C491.4 0 495 3.6 495 8V10H0V8Z" fill="#00E5FF"/>
+  <text x="24" y="35" fill="#00E5FF" font-family="monospace" font-size="14" font-weight="700">MATEUS_CAMARGO // TELEMETRY</text>
+  <text x="24" y="55" fill="#6E829C" font-family="monospace" font-size="10">PUBLIC PROFILE SNAPSHOT · SYNCING VIA GITHUB ACTIONS</text>
+  <g font-family="monospace">
+    <text x="28" y="93" fill="#8BE9FD" font-size="10">PUBLIC REPOSITORIES</text><text x="28" y="123" fill="#FFFFFF" font-size="25" font-weight="700">79</text>
+    <text x="184" y="93" fill="#8BE9FD" font-size="10">FOLLOWERS</text><text x="184" y="123" fill="#FFFFFF" font-size="25" font-weight="700">26</text>
+    <text x="310" y="93" fill="#8BE9FD" font-size="10">FOLLOWING</text><text x="310" y="123" fill="#FFFFFF" font-size="25" font-weight="700">24</text>
+  </g>
+  <circle cx="458" cy="117" r="7" fill="#FF79C6"><animate attributeName="opacity" values=".25;1;.25" dur="1.6s" repeatCount="indefinite"/></circle>
+  <text x="24" y="150" fill="#6E829C" font-family="monospace" font-size="10">LIVE DATA PIPELINE // NEXT REFRESH AUTOMATIC</text>
+</svg>

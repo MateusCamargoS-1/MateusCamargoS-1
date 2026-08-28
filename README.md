@@ -73,8 +73,8 @@ focus:     product thinking · scalable systems · continuous learning
 
 <div align="center">
   <a href="https://github.com/MateusCamargoS-1">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=MateusCamargoS-1&show_icons=true&hide_border=true&bg_color=050816&title_color=00e5ff&text_color=c9d1d9&icon_color=ff79c6&include_all_commits=true&count_private=true" alt="GitHub statistics" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCamargoS-1&layout=compact&hide_border=true&bg_color=050816&title_color=00e5ff&text_color=c9d1d9&langs_count=8" alt="Most used languages" />
+    <img height="165" src="./profile/stats.svg" alt="GitHub statistics" />
+    <img height="165" src="./profile/top-langs.svg" alt="Most used languages" />
   </a>
 </div>
 
