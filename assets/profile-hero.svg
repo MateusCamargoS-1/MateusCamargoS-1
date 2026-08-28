@@ -1,0 +1,60 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#030511"/><stop offset="0.55" stop-color="#07152C"/><stop offset="1" stop-color="#14051F"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E5FF" stop-opacity="0"/><stop offset="0.2" stop-color="#00E5FF"/><stop offset="0.5" stop-color="#8BE9FD"/><stop offset="0.8" stop-color="#FF79C6"/><stop offset="1" stop-color="#FF79C6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="text" x1="350" y1="130" x2="790" y2="210" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"/><stop offset="0.58" stop-color="#8BE9FD"/><stop offset="1" stop-color="#FF79C6"/></linearGradient>
+    <filter id="glowCyan"><feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glowPink"><feGaussianBlur stdDeviation="10" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#8BE9FD" stroke-opacity=".075"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="360" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <ellipse cx="190" cy="180" rx="210" ry="190" fill="#00E5FF" fill-opacity=".08" filter="url(#glowCyan)"/>
+    <ellipse cx="1050" cy="125" rx="230" ry="180" fill="#FF3CAC" fill-opacity=".075" filter="url(#glowPink)"/>
+
+    <g opacity=".65" stroke="#00E5FF" stroke-width="1">
+      <path d="M0 278H1200" stroke-opacity=".13"/><path d="M0 82H1200" stroke-opacity=".08"/>
+      <path d="M88 0V360M1112 0V360" stroke-opacity=".12" stroke-dasharray="3 8"/>
+    </g>
+
+    <g fill="#8BE9FD">
+      <circle cx="74" cy="70" r="2" opacity=".8"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="1080" cy="278" r="2" opacity=".8"><animate attributeName="opacity" values="1;.2;1" dur="3.1s" repeatCount="indefinite"/></circle>
+      <circle cx="1016" cy="58" r="1.5" opacity=".7"><animate attributeName="opacity" values=".1;.9;.1" dur="1.8s" repeatCount="indefinite"/></circle>
+      <circle cx="180" cy="300" r="1.5" opacity=".7"><animate attributeName="opacity" values=".9;.1;.9" dur="2.8s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <g transform="translate(600 175)" fill="none" stroke="#00E5FF" stroke-width="1">
+      <circle r="108" stroke-opacity=".11" stroke-dasharray="2 12"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="28s" repeatCount="indefinite"/></circle>
+      <circle r="86" stroke-opacity=".17" stroke-dasharray="1 8"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="19s" repeatCount="indefinite"/></circle>
+      <circle r="62" stroke="#FF79C6" stroke-opacity=".2" stroke-dasharray="3 7"><animate attributeName="r" values="62;70;62" dur="3.8s" repeatCount="indefinite"/></circle>
+      <circle r="7" fill="#00E5FF" fill-opacity=".8" stroke="none" filter="url(#glowCyan)"><animate attributeName="r" values="5;8;5" dur="2s" repeatCount="indefinite"/></circle>
+      <path d="M-140 0H-74M74 0H140M0-140V-74M0 74V140" stroke-opacity=".5"/>
+    </g>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#8BE9FD">
+      <text x="42" y="42" font-size="10" letter-spacing="2" opacity=".8">SYS://MATEUS_CAMARGO</text>
+      <text x="1000" y="42" font-size="10" letter-spacing="2" opacity=".8">BUILD 2026.08</text>
+      <text x="42" y="330" font-size="10" letter-spacing="2" opacity=".7">FULLSTACK_ENGINEERING</text>
+      <text x="1010" y="330" font-size="10" letter-spacing="2" opacity=".7">[ ONLINE ]</text>
+    </g>
+
+    <g text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+      <text x="600" y="153" font-size="46" font-weight="700" letter-spacing="6" fill="url(#text)">MATEUS</text>
+      <text x="600" y="196" font-size="20" letter-spacing="8" fill="#FFFFFF" fill-opacity=".9">CAMARGO</text>
+      <text x="600" y="235" font-size="11" letter-spacing="3" fill="#8BE9FD" fill-opacity=".9">PRODUCT SYSTEMS / FULLSTACK ENGINEERING</text>
+    </g>
+
+    <rect x="0" y="0" width="1200" height="3" fill="url(#edge)" filter="url(#glowCyan)">
+      <animate attributeName="y" values="0;357;0" dur="7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="1" y="1" width="1198" height="358" rx="17" stroke="url(#edge)" stroke-opacity=".55"/>
+  </g>
+</svg>

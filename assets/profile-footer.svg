@@ -1,0 +1,13 @@
+<svg width="1200" height="96" viewBox="0 0 1200 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="0" y1="48" x2="1200" y2="48" gradientUnits="userSpaceOnUse"><stop stop-color="#00E5FF" stop-opacity="0"/><stop offset=".2" stop-color="#00E5FF"/><stop offset=".5" stop-color="#FF79C6"/><stop offset=".8" stop-color="#00E5FF"/><stop offset="1" stop-color="#00E5FF" stop-opacity="0"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <path d="M0 48H1200" stroke="url(#line)" stroke-width="1" opacity=".55"/>
+  <path d="M0 48H1200" stroke="url(#line)" stroke-width="3" stroke-dasharray="2 46" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-192" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <g fill="#8BE9FD" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" letter-spacing="2" opacity=".7">
+    <text x="30" y="78">END_OF_PROFILE // KEEP_BUILDING</text><text x="1010" y="78">v1.0.0</text>
+  </g>
+</svg>

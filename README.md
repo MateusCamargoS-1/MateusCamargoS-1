@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:101a3a,100:00e5ff&height=180&section=header&text=MATEUS%20CAMARGO&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=FULLSTACK%20ENGINEERING%20%2F%2F%20PRODUCT%20SYSTEMS&descAlignY=62&descSize=13&descColor=8be9fd" width="100%" alt="Mateus Camargo — Fullstack Engineering // Product Systems" />
+<img src="./assets/profile-hero.svg" width="100%" alt="Animated interface showing Mateus Camargo, fullstack engineer and product systems builder" />
 
 ### `turn real problems into working systems.`
 
@@ -88,4 +88,4 @@ focus:     product thinking · scalable systems · continuous learning
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:101a3a,100:050816&height=90&section=footer" width="100%" alt="" />
+<img src="./assets/profile-footer.svg" width="100%" alt="" />
