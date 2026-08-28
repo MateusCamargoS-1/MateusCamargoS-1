@@ -41,14 +41,23 @@ My work lives at the intersection of product and engineering: turning operationa
 ## / toolchain
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,postgres,git,github" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, PostgreSQL, Git and GitHub" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,express,fastify,dart,flutter,rust" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, NestJS, Express, Fastify, Dart, Flutter and Rust" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,supabase,prisma,graphql,rabbitmq,aws,docker,tailwind,vite,electron,git,github" alt="PostgreSQL, Redis, Supabase, Prisma, GraphQL, RabbitMQ, AWS, Docker, Tailwind CSS, Vite, Electron, Git and GitHub" />
 </p>
 
 ```yaml
-frontend:  HTML · CSS · JavaScript · TypeScript · React · Bootstrap
-backend:   Node.js · Express
-data:      PostgreSQL
-workflow:  Git · GitHub · REST APIs
+frontend:  HTML · CSS · JavaScript · TypeScript · React · Next.js · Vite · Tailwind CSS · Bootstrap
+backend:   Node.js · NestJS · Express · Fastify · Rust
+mobile:    Dart · Flutter
+data:      PostgreSQL · Redis · Supabase · Prisma · Kysely
+protocols: REST · GraphQL · WebSockets · gRPC
+messaging: RabbitMQ · NATS
+cloud:     AWS (S3 · SQS · SES) · Docker
+desktop:   Electron
+quality:   Jest · Vitest · Playwright · Supertest
+workflow:  Git · GitHub
 focus:     product thinking · scalable systems · continuous learning
 ```
 
